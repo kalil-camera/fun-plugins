@@ -1,0 +1,9 @@
+[en]
+WARUMP_START = Knife Warmup will start now!
+WARUMP_END = Warmup has ended...
+COUNTING = [ Knives now... Still in %i Seconds ]
+
+[pl]
+WARUMP_START = Zaczynamy rozgrzewke!
+WARUMP_END = Koniec rozgrzewki, zaczynamy gre...
+COUNTING = [ Noze... jeszcze przez %i sekund ]

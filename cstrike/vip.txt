@@ -1,0 +1,29 @@
+html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>
+<font size="2" color="#e0a518"><b><center>What do u get as a VIP?</center></b></font><br />
+<font size="1" color="#c0c0ff">
+<UL>
+<LI TYPE=square>You get Free Nades each Round.</LI><br>
+<LI TYPE=square>Free Armor & Helm.</LI><br>
+<LI TYPE=square>You Get Money for Kills and Extra for HS.</LI><br>
+<LI TYPE=square>You Get HP for Kills and Extra for HS.</LI><br>
+<LI TYPE=square>Only VIPs can buy AWPs.</LI><br>
+<LI TYPE=square>VIPs get a Special Player Skin.</LI><br>
+<LI TYPE=square>VIPs get a Special Prefix before their Names.</LI><br>
+<LI TYPE=square>Write /vips to see VIP's online.</LI><br>
+<LI TYPE=square>Slot reservation.</UL><br>
+<LI TYPE=square>VIPs get Free Guns Menu from the 3rd Round.</UL><br>
+<font size="1" color=#00c000><strong>What's the Price of VIP?</strong></font>
+<br>VIP Price: Talk With Owner.<br>
+<font size="1" color="#ffffff"><strong>Free VIP from 16:00 to 22:00</strong></font><br />
+<font size="1" color="#ffffff"><strong>Weapons' Menu's disabled in Custom Modes' Maps.</strong></font><br />
+</body>
+</html>
